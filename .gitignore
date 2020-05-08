@@ -1,0 +1,6 @@
+/*.db
+/target
+/.idea/
+/project/project
+/project/target
+/migrations/target/
